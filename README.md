@@ -2,8 +2,11 @@
 
 [INFO]
 [ || ]   Port Stalker, simple nmap automation tool
+
 [ || ]
+
 [ || ]
+
 [DISCLAIMER] We do not promote the use of this tool for illegal purposes, ethical use only.
 
 

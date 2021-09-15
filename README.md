@@ -25,6 +25,7 @@ pip install termcolor
 pip install pyfiglet
 
 pip install python-nmap
+
 -------------------------------------------------
 
 After installation

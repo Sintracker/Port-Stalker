@@ -13,3 +13,9 @@ This utility is to be used with Nmap.
     (TCP/UDP) and giving a response on which ports are open with the respective arguments
     to perform a deeper scan later on Nmap with said arguments, while also showing the respective commands 
     for a faster scan.
+
+-------------------------------------------------
+before running you should have installed or upgraded the following libraries:
+pip install termcolor
+pip install pyfiglet
+pip install python-nmap

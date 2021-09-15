@@ -16,6 +16,9 @@ This utility is to be used with Nmap.
 
 -------------------------------------------------
 before running you should have installed or upgraded the following libraries:
+
 pip install termcolor
+
 pip install pyfiglet
+
 pip install python-nmap

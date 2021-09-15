@@ -25,3 +25,11 @@ pip install termcolor
 pip install pyfiglet
 
 pip install python-nmap
+-------------------------------------------------
+
+After installation
+
+make sure to perform the command "chmod +x Port-Stalker.py
+
+and make sure to always run the file with root privilegies "sudo ./port-Stalker.py"
+
